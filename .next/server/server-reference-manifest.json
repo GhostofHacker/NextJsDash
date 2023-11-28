@@ -1,5 +1,38 @@
 {
-  "node": {},
+  "node": {
+    "6931730e6e5000419756bac001066f0ce19f95ce": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWorkspace%5C%5CNextJs%5C%5CNextJsDash%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "c1c014779d3557cb9fc8219b5697bd4c4a5a652f": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWorkspace%5C%5CNextJs%5C%5CNextJsDash%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "bd475a556f819187b1745c556889f9446c04d8a3": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWorkspace%5C%5CNextJs%5C%5CNextJsDash%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "46ba1a3a0caa0d0647ecaf9b4f9ea7e75c046683": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWorkspace%5C%5CNextJs%5C%5CNextJsDash%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "IY0JVEFhUaa48AUwv5KObeiaND5AeONWG9Nrkur5eWI="
+  "encryptionKey": "9SHiGRnGJBmIyAw8+knSES46yvZBaT7f5bqj1KLJXFY="
 }
